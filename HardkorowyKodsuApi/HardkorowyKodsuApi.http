@@ -1,0 +1,6 @@
+@HardkorowyKodsuApi_HostAddress = http://localhost:5017
+
+GET {{HardkorowyKodsuApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
